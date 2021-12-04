@@ -1,0 +1,4 @@
+cd /pi/.arduino
+sudo nano preferences.txt
+serial.debug_rate check!
+serial.port check!

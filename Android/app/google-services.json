@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "476681235018",
+    "firebase_url": "https://bamboo-53bb4.firebaseio.com",
+    "project_id": "bamboo-53bb4",
+    "storage_bucket": "bamboo-53bb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476681235018:android:b447e89a3005c909",
+        "android_client_info": {
+          "package_name": "com.example.namjiseong.bamboo1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476681235018-tsv7picrga1kt6l0vsdfg6aq2u10j4dk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "secret"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476681235018-tsv7picrga1kt6l0vsdfg6aq2u10j4dk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
